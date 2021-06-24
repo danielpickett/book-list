@@ -1,4 +1,29 @@
-Last updated 2020-12-29
+Last updated 2021-06-23
+
+---
+### *Noise: A Flaw in Human Judgment*
+#### By Daniel Kahneman, Olivier Sibony, Cass R. Sunstein
+From the best-selling author of Thinking, Fast and Slow, the co-author of Nudge, comes Noise, a revolutionary exploration of why people make bad judgments, and how to control both noise and cognitive bias....
+
+---
+### *Never Split the Difference: Negotiating as if Your Life Depended on It*
+#### By Chris Voss
+In this practical guide, Voss shares the nine effective principles - counterintuitive tactics and strategies - you, too, can use to become more persuasive in both your professional and personal lives....
+
+---
+### *Nudge: Improving Decisions About Health, Wealth, and Happiness [Expanded Edition]*
+#### By Richard H. Thaler, Cass R. Sunstein
+Every day, we make decisions on topics ranging from personal investments to schools to the meals we eat to the causes we champion. Unfortunately, we often choose poorly....
+
+---
+### *How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need*
+#### By Bill Gates
+Bill Gates shares what he's learned in more than a decade of studying climate change and investing in innovations to address the problems, and sets out a vision for how the world can build the tools it needs to get to zero greenhouse gas emissions....
+
+---
+### *The Index Card: Why Personal Finance Doesn’t Have to Be Complicated*
+#### By Helaine Olen, Harold Pollack
+Everything you need to know about managing your money could fit on an index card....
 
 ---
 ### *Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration*
